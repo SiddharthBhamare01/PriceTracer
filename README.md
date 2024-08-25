@@ -2,9 +2,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/SiddharthBhamare01/PriceTracer">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Price Tracer</h3>
 
@@ -50,10 +47,7 @@
 * To track the prices with the helpful graphs and charts. 
 * To provide the recommendation system to the user for ease in shopping.
 
-### Block Diagram
-<p align="center">
-    <img src="images/block_diagram.png" alt="Logo" width="500" height="400">
- </p>
+
 
 
 ### Built With
@@ -114,4 +108,3 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-[product-screenshot]: images/home.png
